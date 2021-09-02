@@ -257,6 +257,11 @@ header {
 
 header > p {
   margin: 1em 0 0 0;
+  background-color: transparent;
+  background: #c94e92d4;
+  color: inherit;
+  border-radius: 5px;
+  padding: 3px;
 }
 
 footer {
@@ -2274,7 +2279,7 @@ button:active,
 }
 
 #nav ul li a.active span:before {
-  color: #e27689;
+  color: #c94e92d4;
 }
 
 /* Footer */
