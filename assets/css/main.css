@@ -231,7 +231,7 @@ h3 a strong,
 h4 a strong,
 h5 a strong,
 h6 a strong {
-  color: #333;
+  color: rgb(36, 199, 156);
 }
 
 h2 {
@@ -240,7 +240,7 @@ h2 {
 }
 
 h2.alt {
-  color: #888;
+  color: rgb(3, 53, 45);
 }
 
 h2.alt strong {
@@ -266,7 +266,7 @@ footer {
 strong,
 b {
   font-weight: 300;
-  color: #666;
+  color: rgb(36, 199, 156);
 }
 
 em,
