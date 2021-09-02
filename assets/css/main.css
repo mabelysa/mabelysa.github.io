@@ -244,7 +244,7 @@ h2.alt {
 }
 
 h2.alt strong {
-  color: #666;
+  color: rgb(36, 199, 156);
 }
 
 h3 {
@@ -1851,7 +1851,7 @@ article:last-child {
 
 .image img {
   display: block;
-  width: 100%;
+  width: 50%;
 }
 
 .image.avatar48 {
