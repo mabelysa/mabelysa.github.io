@@ -144,6 +144,7 @@ body {
 mark {
   background-color: transparent;
   color: inherit;
+  background: #c94e92d4;
 }
 
 input::-moz-focus-inner {
@@ -260,8 +261,8 @@ header > p {
   background-color: transparent;
   background: #c94e92d4;
   color: inherit;
-  border-radius: 5px;
-  padding: 3px;
+  border-radius: 4px;
+  padding: 2px;
 }
 
 footer {
@@ -2123,6 +2124,7 @@ button:active,
   text-transform: none !important;
   font-family: "Font Awesome 5 Free";
   font-weight: 400;
+  width: 50;
 }
 
 .icon:before {
