@@ -201,7 +201,7 @@ select {
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
-  color: #888;
+  color: rgb(11, 131, 103);
 }
 
 h1,
@@ -211,7 +211,7 @@ h4,
 h5,
 h6 {
   font-weight: 300;
-  color: #666;
+  color: rgb(3, 53, 45);
   line-height: 1.5em;
 }
 
@@ -1857,10 +1857,15 @@ article:last-child {
 .image.avatar48 {
   width: 48px;
   height: 48px;
-  background: #f00;
+  background: rgb(7, 245, 221);
 }
 
 .image.avatar48 img {
+  width: 48px;
+  height: 48px;
+}
+
+.image.avatar3 img {
   width: 48px;
   height: 48px;
 }
