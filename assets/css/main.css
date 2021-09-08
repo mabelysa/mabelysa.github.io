@@ -145,6 +145,9 @@ mark {
   background-color: transparent;
   color: inherit;
   background: #c94e92d4;
+  padding: 3px;
+  width: 200px;
+  height: 150px;
 }
 
 input::-moz-focus-inner {
