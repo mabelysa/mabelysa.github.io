@@ -1892,9 +1892,9 @@ article:last-child {
 
 .image.featured {
   display: block;
-  width: 100%;
+  width: 120%;
   margin: 0 0 1em 0;
-  padding-left: 400px;
+  padding-left: 420px;
 }
 
 .image.left {
