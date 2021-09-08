@@ -1861,13 +1861,13 @@ article:last-child {
 }
 
 .image.avatar48 {
-  width: 110px;
+  width: 120px;
   height: 130px;
   background: rgb(7, 245, 221);
 }
 
 .image.avatar48 img {
-  width: 110px;
+  width: 120px;
   height: 130px;
 }
 
@@ -1894,7 +1894,7 @@ article:last-child {
   display: block;
   width: 50%;
   margin: 0 0 1em 0;
-  padding-left: 200px;
+  padding-left: 230px;
 }
 
 .image.left {
