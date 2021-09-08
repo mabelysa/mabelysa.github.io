@@ -1886,9 +1886,13 @@ article:last-child {
   text-align: center;
 }
 
+.youtube-header {
+  text-align: center;
+}
+
 .image.featured {
   display: block;
-  width: 100%;
+  width: 700%;
   margin: 0 0 2em 0;
 }
 
