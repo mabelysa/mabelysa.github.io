@@ -1862,13 +1862,13 @@ article:last-child {
 
 .image.avatar48 {
   width: 100px;
-  height: 100px;
+  height: 120px;
   background: rgb(7, 245, 221);
 }
 
 .image.avatar48 img {
   width: 100px;
-  height: 100px;
+  height: 120px;
 }
 
 .image.avatar3 img {
@@ -1893,8 +1893,8 @@ article:last-child {
 .image.featured {
   display: block;
   width: 50%;
-  margin: 0 0 2em 0;
-  padding-left: 130px;
+  margin: 0 0 1em 0;
+  padding-left: 160px;
 }
 
 .image.left {
