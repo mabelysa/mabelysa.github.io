@@ -1878,7 +1878,11 @@ article:last-child {
 
 .image.fit {
   display: block;
-  width: 100%;
+  width: 50%;
+}
+
+.row {
+  text-align: center;
 }
 
 .image.featured {
